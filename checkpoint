@@ -1,0 +1,2 @@
+model_checkpoint_path: "Cdlenet"
+all_model_checkpoint_paths: "Cdlenet"
